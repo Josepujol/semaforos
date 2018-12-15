@@ -18,5 +18,4 @@ http://echidna.es/
 <img src= https://github.com/Josepujol/semaforos/blob/master/ejemplos/Snap4Arduino-EchidnaShield/img/echidnashield.png height="300">
 
 # Sobre los autores
-Xabier Rosas, Jorge Lobo y José Pujol son los creadores de EchidnaShield
-El semáforo es la segunda de las diez actividades que tenemos planteadas para trabajar con la Echidna http://echidna.es/actividades/propuesta-didactica/
+Xabier Rosas, Jorge Lobo y José Pujol son los creadores de EchidnaShield. El semáforo es la segunda de las diez actividades que tenemos planteadas para trabajar con la Echidna http://echidna.es/actividades/propuesta-didactica/
